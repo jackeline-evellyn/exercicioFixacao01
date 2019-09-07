@@ -1,0 +1,10 @@
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\bin\Debug\netcoreapp2.1\exercicioFixacao01.deps.json
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\bin\Debug\netcoreapp2.1\exercicioFixacao01.runtimeconfig.json
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\bin\Debug\netcoreapp2.1\exercicioFixacao01.runtimeconfig.dev.json
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\bin\Debug\netcoreapp2.1\exercicioFixacao01.dll
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\bin\Debug\netcoreapp2.1\exercicioFixacao01.pdb
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\obj\Debug\netcoreapp2.1\exercicioFixacao01.csproj.CoreCompileInputs.cache
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\obj\Debug\netcoreapp2.1\exercicioFixacao01.AssemblyInfoInputs.cache
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\obj\Debug\netcoreapp2.1\exercicioFixacao01.AssemblyInfo.cs
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\obj\Debug\netcoreapp2.1\exercicioFixacao01.dll
+C:\Users\Jackeline Evellyn\source\repos\exercicioFixacao01\exercicioFixacao01\obj\Debug\netcoreapp2.1\exercicioFixacao01.pdb
